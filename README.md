@@ -18,10 +18,15 @@ Minha atuação tem me aproximado cada vez mais da Engenharia de Dados, principa
 💡 Principais interesses:
 
 Engenharia de Dados
+
 Data Pipelines e ETL/ELT
+
 Desenvolvimento Python
+
 APIs e Integração de Sistemas
+
 Bancos de Dados
+
 Automação e processamento de dados
 
 🚀 Meu objetivo é atuar na construção de soluções de dados confiáveis e escaláveis, conectando diferentes fontes, automatizando processos e transformando dados brutos em informações estruturadas e úteis para o negócio.
