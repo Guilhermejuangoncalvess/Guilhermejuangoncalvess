@@ -1,25 +1,30 @@
 # 👩🏻‍💻 Guilherme Gonçalves
 
 **`
-Data Analysis and Development`**
+Data Engineering | Python | SQL | ETL | APIs | Data Integration`**
 
-👋 Olá, eu sou o Guilherme Juan Gonçalves!
+👋 Olá, eu sou Guilherme Gonçalves!
 
-Tenho 20 anos, moro em Curitiba (PR) e sou apaixonado por tecnologia, dados e automação. Estou cursando Engenharia de Software e atuo há 4 anos na área de TI, com experiência prática em Business Intelligence, análise de dados e desenvolvimento de soluções automatizadas.
+Tenho 20 anos, moro em Curitiba (PR), sou estudante de Engenharia de Software e atuo há 4 anos na área de Tecnologia da Informação. Atualmente, trabalho como Analista de Sistemas no Grupo Madero, atuando diretamente com integrações, APIs, bancos de dados, análise de dados e sustentação de sistemas.
 
-Trabalho com Python e SQL como principais linguagens, além de dominar ferramentas como Power BI, Excel e n8n para Analise de Dados, automação de processos e integração entre sistemas. Tenho experiência com bancos de dados relacionais (SQL Server, PostgreSQL e MySQL) e conhecimentos em Big Data, ETL e modelagem de dados (DER).
+No meu dia a dia, trabalho com integrações entre diferentes plataformas e sistemas, incluindo aplicativo mobile, marketplaces, meios de pagamento e sistemas internos. Atuo na análise de fluxos de integração, investigação de inconsistências, análise de logs e dados em banco, validação de APIs, testes de cenários e identificação da origem de problemas técnicos.
 
-Sou movido pela curiosidade e pela busca constante por aprendizado, transformando dados em insights estratégicos e construindo soluções que otimizam a tomada de decisão.
+Tenho experiência prática com SQL e bancos de dados relacionais, principalmente Oracle, além de MySQL, PostgreSQL e SQL Server. Utilizo SQL para investigar dados, identificar divergências, validar processos e apoiar a resolução de problemas relacionados às integrações.
 
-💡 Áreas de interesse:
+Também trabalho com Python, APIs, ETL e automação de processos, buscando reduzir atividades manuais e transformar processos recorrentes em soluções mais eficientes e confiáveis. Minha experiência anterior com BI e automação também me proporcionou contato com Power BI, n8n, QlikView e diferentes processos de tratamento e transformação de dados.
 
-Business Intelligence e Análise de Dados
+Minha atuação tem me aproximado cada vez mais da Engenharia de Dados, principalmente pela combinação entre desenvolvimento, bancos de dados, integração de sistemas e processamento de informações. Atualmente, estou aprofundando meus conhecimentos em pipelines de dados, Airflow, Databricks, Spark, Data Lake, Data Warehouse e arquiteturas modernas de dados, buscando evoluir da análise e integração para a construção de pipelines robustos e escaláveis.
 
-Desenvolvimento de Soluções Automatizadas
+💡 Principais interesses:
 
-Programação
+Engenharia de Dados
+Data Pipelines e ETL/ELT
+Desenvolvimento Python
+APIs e Integração de Sistemas
+Bancos de Dados
+Automação e processamento de dados
 
-🚀 Busco constantemente evoluir como profissional e contribuir com projetos que unam tecnologia, inovação e propósito.
+🚀 Meu objetivo é atuar na construção de soluções de dados confiáveis e escaláveis, conectando diferentes fontes, automatizando processos e transformando dados brutos em informações estruturadas e úteis para o negócio.
 
 ### 🤖 Linguagens e Tecnologias
 
